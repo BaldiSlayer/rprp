@@ -23,3 +23,9 @@ go.work.sum
 
 # env file
 .env
+
+.idea
+
+lab3/.idea
+
+lab3/cmake-build-debug
